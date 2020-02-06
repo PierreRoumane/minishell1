@@ -1,0 +1,44 @@
+- (X) Faire env (complet) {
+    - (X) Supprimer le \n (OH PTN C'EST SALE)
+}
+- Trouver un moyen de remplacer NULL
+- (X) Corriger le problème d'espaces ( ) (setenv, cd, unsetenv)
+- (X) Supprimer les warnings
+- (X) Faire exit (complet)
+- ( ) Faire setenv {
+    - ( ) Faire une gestion d'erreur complète {
+        - ( ) Gérer les espaces post arguments (non pris si non arguments derrière)
+        - (X) Gérer les espaces pré arguments
+    }
+    - ( ) Faire une écriture complète
+    - (X) Gérer la modification correcte de l'env
+}
+- ( ) Faire cd {
+    - ( ) Trouver comment se déplacer dans les dossiers
+}
+- ( ) Faire le bin/ls
+- ( ) Faire unsetenv
+- ( ) Inclure les flags? {
+    - (X) Regarder les flags
+    - ( ) Inclure des flags {
+        - ( ) -b
+        - ( ) -c
+        - ( ) -d
+        - ( ) -e
+        - ( ) -f
+        - ( ) -F
+        - ( ) -i
+        - ( ) -l
+        - ( ) -m
+        - ( ) -n
+        - ( ) -q
+        - ( ) -s
+        - ( ) -t
+        - ( ) -v
+        - ( ) -x
+        - ( ) -V
+        - ( ) -X
+        - ( ) --help
+        - ( ) --version
+    }
+}
